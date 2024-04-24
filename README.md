@@ -27,3 +27,7 @@ Building webserv has been a rewarding experience, deepening my understanding of:
 - Applying design patterns and SOLID principles for clean, maintainable code
 
 This project demonstrates my ability to code efficiently while keeping maintainability as a top priority. I believe in building code that not only works well but is also easy to understand and improve upon in the future.
+
+## Contributers 🔨
+* * Youness Chaaibi      -- <a href="https://github.com/ychaaibi">ychaaibi</a>
+* * Youssef Alaoui Sossi -- <a href="https://github.com/yoalaoui">yoaloui </a>
